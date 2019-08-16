@@ -1,4 +1,4 @@
-(defproject jobtech-nlp-tokeniser "0.1.0-SNAPSHOT"
+(defproject jobtech-nlp-tokeniser "0.1.0"
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
   :license {:name "The MIT License"
